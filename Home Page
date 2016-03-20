@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Jonathan Tong s235936 </title>
+        
+    </head>
+    <head><link rel=stylesheet type="text/css" href="CSS%20for%20HTML%20Webpage.css"> </head>
+    
+    <body>
+    <div class="header"></div>
+        <div class="container"></div>
+        <div class="logo"> <img src="Logo.jpg" </div>
+       
+        
+        <div class="nav"></div>
+        <ul>
+        <li><a href="index.html">Home</a> </li>
+        <li><a href="topic.html">Topic</a> </li>
+        <li><a href="References.html">References</a> </li>    
+        </ul>
+        </div>
+    
+    <div class="container">    
+    <div class="content">  
+       <p> Welcome! to this webpage about "Responsive Design"created by Jonathan Tong. This webpage will talk about Responsive Design and the raising concerns regarding it</p> 
+        <p> What is Responsive Design:
+        Responsive design is the process in which to consider when crafting a webpage. So it can be viewed at a good quality on all platforms PCs, tablets, mobile phones etc. According to the web developer John Polacek it is the ability to “make pages look good at any size” (Polacek, 2016).
+. </p>
+
+<h3> What is Responsive Design in 60 seconds:</h3>
+    <div id="embedded video home page"><iframe width="1280" height="720" src="https://www.youtube.com/embed/snQp757_Rr0" frameborder="0" allowfullscreen></iframe></div>
+    <a href="https://www.youtube.com/watch?v=snQp757_Rr0">(Video Source)</a>
+   
+        
+        </body>
+        
+    
+</html>
